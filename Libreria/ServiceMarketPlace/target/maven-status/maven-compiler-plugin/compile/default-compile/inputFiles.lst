@@ -1,0 +1,17 @@
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\vo\CompradorWebVO.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\delegate\api\IVendedorBusinessDelegate.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\dto\CompradorDTO.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\connection\MakertPlaceServiceConnection.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\vo\VendedorWebVO.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\params\GetCompradorParams.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\remote\CompradorModuleRemote.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\delegate\api\ICompradorBusinessDelegate.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\remote\VendedorModuleRemote.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\delegate\impl\CompradorBusinessDelegate.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\params\GetVendedorParams.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\dto\VendedorDTO.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\adapter\MarketPlaceAdapterService.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\connection\PropertiesManager.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\connection\MakertPlacePropertiesManager.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\facade\MarketPlaceFacade.java
+D:\Proyectos\ServiceMarketPlace\src\com\reto2\internal\delegate\impl\VendedorBusinessDelegate.java

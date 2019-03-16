@@ -1,0 +1,40 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>ApiMarketPlace</groupId>
+	<artifactId>ApiMarketPlace</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>ejb</packaging>
+	<build>
+		<sourceDirectory>ejbModule</sourceDirectory>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.0</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<artifactId>maven-ejb-plugin</artifactId>
+				<version>3.0.1</version>
+				<configuration>
+					<ejbVersion>3.2</ejbVersion>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+	<dependencies>
+		<dependency>
+			<groupId>org.jboss.logging</groupId>
+			<artifactId>jboss-logging</artifactId>
+			<version>3.3.0.Final</version>
+			<scope>provided</scope>
+		</dependency>
+		<!--<dependency> <groupId>com.reto2.internal</groupId> <artifactId>ServiceMarketPlace</artifactId> 
+			<version>0.0.1-SNAPSHOT</version> <type>jar</type> <scope>provided</scope> 
+			</dependency> -->
+	</dependencies>
+</project>
